@@ -1,0 +1,28 @@
+
+{
+  "development": {
+    "username": "postgres",
+    "password": "Postgres@123",
+    "database": "career_assessment",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Postgres@123",
+    "database": "career_assessment_test",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Postgres@123",
+    "database": "career_assessment_prod",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
+
