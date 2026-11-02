@@ -93,7 +93,7 @@ const StudentForm = ({ onSubmit }: StudentFormProps) => {
             Back to Home
           </Link>
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Tell Us About Yourself
+            Tell us about yourself
           </h1>
           <p className="text-lg text-gray-600">
             This information helps us personalize your career assessment
@@ -212,7 +212,7 @@ const StudentForm = ({ onSubmit }: StudentFormProps) => {
                 {isLoading ? (
                   <>
                     <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
-                    <span>Processing...</span>
+                    <span>Processing..</span>
                   </>
                 ) : (
                   <>

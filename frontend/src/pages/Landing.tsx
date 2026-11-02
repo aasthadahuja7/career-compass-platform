@@ -25,7 +25,7 @@ const Landing = ({ onStart }: LandingProps) => {
           <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-primary-600 rounded-xl flex items-center justify-center shadow-lg">
             <Brain className="w-6 h-6 text-white" />
           </div>
-          <span className="text-2xl font-bold text-gray-900">PathFinder</span>
+          <span className="text-2xl font-bold text-green-900">PathFinder</span>
         </div>
 
         {/* Navigation */}

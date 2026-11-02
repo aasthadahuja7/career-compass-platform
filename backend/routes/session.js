@@ -2,7 +2,7 @@ const express = require('express');
 const { Student } = require('../models');
 const router = express.Router();
 
-// POST /api/session - Create student session
+// POST /api/session - Create student sessions
 router.post('/', async (req, res) => {
   try {
     const { name, age, education, preferredSubjects } = req.body;
