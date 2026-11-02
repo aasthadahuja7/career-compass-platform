@@ -386,14 +386,8 @@ This project is licensed under the MIT License.
    - Verify `/api/questions` endpoint is accessible
    - Ensure frontend can reach backend API
 
-## 📞 Support
 
-For support and questions:
-1. Check the troubleshooting section above
-2. Open an issue in the repository with detailed description
-3. Include browser console errors if applicable
-4. Provide steps to reproduce the issue
 
 ---
 
-**Built with ❤️ using React, Node.js, PostgreSQL, and TypeScript**
+
